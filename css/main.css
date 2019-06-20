@@ -1,0 +1,15 @@
+body {
+  font-family: Palatino;
+}
+
+.book-list {
+  display: flex;
+
+}
+
+div {
+  padding: 10px;
+  border: lightblue;
+  border-width: 2px;
+  border-style: solid;
+}
